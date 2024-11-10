@@ -1,0 +1,11 @@
+#requirements.txt
+
+streamlit
+faiss-cpu
+numpy
+sentence-transformers
+torch
+transformers
+scikit-learn
+requests
+
