@@ -23,12 +23,12 @@ This chatbot is designed to:
 - Clone this repository:
 
   ```bash
-      git clone https://github.com/Adya-Mishra/adya-mishra-wasserstoff-AiTask
+      git clone https://github.com/Adya-Mishra/RAG-based-Chatbot-with-COT
 
 - Navigate to the project directory:
 
   ```bash
-      cd adya-mishra-wasserstoff-AiTask
+      cd RAG-based-Chatbot-with-COT
 
 - Install the required dependencies:
   
